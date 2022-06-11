@@ -1,9 +1,9 @@
 import React from 'react';
-import Navbar from './Navbar';
-import MainPage from './MainPage';
-import Footer from './Footer';
-import Projects from './Projects';
-import Skills from './Skills'
+import Navbar from './components/Navbar';
+import MainPage from './components/MainPage';
+import Footer from './components/Footer';
+import Projects from './components/Projects';
+import Skills from './components/Skills'
 function App()
 {
     return(
